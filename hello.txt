@@ -1,2 +1,3 @@
 something i can't hide
 this is a new line
+this is something else
